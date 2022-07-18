@@ -19,7 +19,7 @@ This is solution [NFT preview card component from Frontend Mentor](https://www.f
 
 Users should be able to :
 
-- Build out QR Code Component looking as close to the design
+- Build out NFT preview card component looking as close to the design
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
